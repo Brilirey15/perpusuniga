@@ -1,0 +1,53 @@
+.navb{
+	background-color: orange;
+	height: 50px;
+	border-bottom: 5px solid blue;
+	margin: 0px;
+}
+
+ul{
+	margin: 0px;
+}
+
+.li1{
+	list-style-type: none;
+	float: left;
+	font-family: arial;
+	font-size: 20px;
+	padding-right: 20px;
+}
+
+.li2{
+	list-style-type: none;
+	float: right;
+	font-family: arial;
+	font-size: 20px;
+	padding-right: 20px;
+}
+
+.nl{
+	list-style-type: none;
+	text-decoration: none;
+}
+
+.nl:hover{
+	background-color: blue;
+}
+
+.judul{
+	color: blue;
+	font-family: inherit;
+	text-align: center;
+}
+
+.char{
+	font-size: 12px;
+	float: right;
+	text-align: right;/
+}
+.pro{
+	width: 100%;
+	height: 30px;
+	background-color: orange;
+	margin-top: 500px;
+}
